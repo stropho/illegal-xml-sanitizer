@@ -1,6 +1,6 @@
 {
   "name": "illegal-xml-sanitizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replace illegal XML characters from text content",
   "main": "index.js",
   "repository": {
