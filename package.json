@@ -4,8 +4,8 @@
   "description": "Replace illegal XML characters from text content",
   "main": "index.js",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/stropho/illegal-xml-sanitizer.git"
+    "type": "git",
+    "url": "https://github.com/stropho/illegal-xml-sanitizer.git"
   },
   "scripts": {
     "test": "mocha"

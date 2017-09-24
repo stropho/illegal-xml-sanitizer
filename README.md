@@ -1,4 +1,4 @@
-Removes/replaces invalid xML chracters from strings
+Removes/replaces invalid XML chracters from strings
 
 # Motivation
 In case you process data from unknown sources (like the internet) and you want to generate XML files with that data, let's say XLSX files, you need to sanize the input data. Otherwise you XML parser (the program that opens and nicely displayes XML files data) will most probably crash.
